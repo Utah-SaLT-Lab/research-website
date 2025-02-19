@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: News and Research Papers
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
