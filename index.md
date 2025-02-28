@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to SaLT Lab'
+landing-title: 'Welcome to UTSTA'
 description: null
 image: null
 author: null
