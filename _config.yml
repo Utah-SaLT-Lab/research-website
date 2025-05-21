@@ -1,3 +1,9 @@
+#Remote theme for styling
+remote_theme: andrewbanchich/forty-jekyll-theme
+plugins:
+  - jekyll-remote-theme
+
+
 # site settings
 title: SaLT Lab
 subtitle: by HTML5 UP
